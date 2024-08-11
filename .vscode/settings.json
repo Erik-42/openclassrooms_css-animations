@@ -1,0 +1,6 @@
+{
+    "workbench.editor.autoLockGroups": {
+        "terminalEditor": false
+    },
+    "workbench.editor.defaultBinaryEditor": "default"
+}
